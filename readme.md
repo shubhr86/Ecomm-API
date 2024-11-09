@@ -39,7 +39,7 @@ A simple RESTful API built with Node.js and MongoDB (using MongoDB Atlas) to man
 3. **Environment Variables:**
    Create a `.env` file in the project root with the following variables:
    ```plaintext
-   MONGODB_URI=<Your MongoDB Atlas connection string>
+   MONGODB_URI=<Your MongoDB Atlas connection string> || Update URL in .env
    PORT=3000
    ```
 
