@@ -47,7 +47,7 @@ https://ecomm-api-8ipk.onrender.com/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ecommerce-inventory-api.git
+   git clone https://github.com/shubhr86/Ecomm-API.git
    cd ecommerce-inventory-api
    ```
 
@@ -59,7 +59,7 @@ https://ecomm-api-8ipk.onrender.com/
 3. **Environment Variables:**
    Create a `.env` file in the project root with the following variables:
    ```plaintext
-   MONGODB_URI=<Your MongoDB Atlas connection string>
+   MONGODB_URI=<Your MongoDB Atlas connection string> || Update URL in .env
    PORT=3000
    ```
 
