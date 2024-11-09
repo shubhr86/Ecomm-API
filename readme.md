@@ -27,7 +27,7 @@ A simple RESTful API built with Node.js and MongoDB (using MongoDB Atlas) to man
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ecommerce-inventory-api.git
+   git clone https://github.com/shubhr86/Ecomm-API.git
    cd ecommerce-inventory-api
    ```
 
