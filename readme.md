@@ -10,6 +10,26 @@ A simple RESTful API built with Node.js and MongoDB (using MongoDB Atlas) to man
 - **Express**
 - **MongoDB (using MongoDB Atlas)**
 
+## Base URL for Live API
+The live API is hosted on Render and accessible at:
+
+https://ecomm-api-8ipk.onrender.com/
+
+
+## API Endpoints
+
+### 1. Add a Product
+- **URL**: `/products/create`
+- **Method**: `POST`
+- **Description**: Adds a new product to the database.
+- **Request Body**:
+  ```json
+  {
+    "name": "Product Name",
+    "quantity": 10
+  }
+### Rest Are Below
+
 ## Features
 
 - Add a product to the inventory.
